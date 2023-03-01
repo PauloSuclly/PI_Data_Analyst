@@ -5,7 +5,7 @@ _Engineer: Paulo C. Suclly A._
 
 In this project We are going to analize the market and find the best opportunities of investment.
 
-<img src="./_src/investment.PNG" alt="Invesment Image" width="100" height="100">
+<img src="./_src/Investment.png" alt="Invesment Image" width="100" height="100">
 
 ## **Content Of The Project**
 

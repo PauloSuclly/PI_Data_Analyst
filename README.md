@@ -30,7 +30,7 @@ We calculated the Cumulative Return, Volatility, Daily return and Average Yearly
 
 <br>
 
-We found that one of the sectors of S%P 500 that has a decent increment was the Technological one. Nowadays the hype is related to AI Projects/Companies. We analized 2 ETF's related to AI. We see a huge potential on this sector, that's why We based part of analysis on this sector.
+We found that one of the sectors of S&P 500 that has a decent increment was the Technological one. Nowadays the hype is related to AI Projects/Companies. We analized 2 ETF's related to AI. We see a huge potential on this sector, that's why We based part of analysis on this sector.
 
 <br>
 
